@@ -112,7 +112,7 @@
 - Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework
 - **Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**
 
-#### 2017-AAAI
+##### 2017-AAAI
 
 - Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`code`](https://github.com/cmkang/CTSN)
 
