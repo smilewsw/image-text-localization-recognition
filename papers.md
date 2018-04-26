@@ -76,7 +76,7 @@
 
 ##### 2017-CVPR
 
-- **EAST-An Efﬁcient and Accurate Scene Text Detector**
+- **EAST-An Efﬁcient and Accurate Scene Text Detector** [`code`](https://github.com/argman/EAST)
 - Deep Matching Prior Network Toward Tighter Multi-oriented Text Detection
 - **Detecting Oriented Text in Natural Images by Linking Segments**
 
@@ -105,7 +105,7 @@
 ##### 2018-CVPR
 
 - **FOTS: Fast Oriented Text Spotting with a Unified Network**
-- **An End-to-End TextSpotter with Explicit Alignment and Attention**
+- **An End-to-End TextSpotter with Explicit Alignment and Attention** [`code`](https://github.com/tonghe90/textspotter)
 
 ##### 2017-ICCV
 
