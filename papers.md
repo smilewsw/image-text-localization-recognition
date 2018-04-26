@@ -15,7 +15,7 @@
 - SEE- Towards Semi-Supervised End-to-End Scene Text Recognition
 - SqueezedText- A Real-time Scene Text Recognition by Binary Convolutional Encoder-decoder Network
 
-#####2017-ICCV
+##### 2017-ICCV
 
 - **Focusing Attention: Towards Accurate Text Recognition in Natural Images**
 
@@ -28,11 +28,11 @@
 - **Robust Scene Text Recognition With Automatic Rectification**
 - Recursive Recurrent Nets with Attention Modeling for OCR in the Wild
 
-#####2016-AAAI
+##### 2016-AAAI
 
 - Reading Scene Text in Deep Convolutional Sequences
 
-#####2016-NIPS
+##### 2016-NIPS
 
 - Generative Shape Models: Joint Text Recognition and Segmentation with Very Little Training Data
 
@@ -40,11 +40,11 @@
 
 - **An End-to-End Trainable Neural Network for Image-based Sequence Recognition and Its Application to Scene Text Recognition** [`paper`](http://arxiv.org/pdf/1507.05717v1.pdf) [`code`](http://mclab.eic.hust.edu.cn/~xbai/CRNN/crnn_code.zip) [`github code`](https://github.com/bgshih/crnn)
 
-#####2015-ICLR
+##### 2015-ICLR
 
 - Deep structured output learning for unconstrained text recognition 
 
-#####2014-NIPS
+##### 2014-NIPS
 
 - Synthetic Data and Artificial Neural Networks for Natural Scene Text Recognition [`paper`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/jaderberg14c.pdf)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14c/) [`model`](http://www.robots.ox.ac.uk/~vgg/research/text/model_release.tar.gz)
 
@@ -112,7 +112,7 @@
 - Deep TextSpotter: An End-to-End Trainable Scene Text Localization and Recognition Framework
 - **Towards End-to-end Text Spotting with Convolutional Recurrent Neural Networks**
 
-####2017-AAAI
+#### 2017-AAAI
 
 - Detection and Recognition of Text Embedding in Online Images via Neural Context Models [`paper`](https://www.google.com.hk/url?sa=t&rct=j&q=&esrc=s&source=web&cd=2&ved=0ahUKEwj0o9Cfqc3SAhVIXLwKHeSLABQQFggfMAE&url=https%3a%2f%2fraw%2egithubusercontent%2ecom%2fcmkang%2fCTSN%2fmaster%2faaai2017_cameraready%2epdf&usg=AFQjCNHcFvXZ0TDWnGnl20LD98V3LWxpbA) [`code`](https://github.com/cmkang/CTSN)
 
@@ -124,11 +124,11 @@
 
 - Reading Text in the Wild with Convolutional Neural Networks [`paper`](http://arxiv.org/abs/1412.1842) [`demo`](http://zeus.robots.ox.ac.uk/textsearch/#/search/)  [`homepage`](http://www.robots.ox.ac.uk/~vgg/research/text/)
 
-#####2014-TIP
+##### 2014-TIP
 
 - A Unified Framework for Multi-Oriented Text Detection and Recognition
 
-#####2014-ECCV
+##### 2014-ECCV
 
 - Deep Features for Text Spotting [`paper`](http://www.robots.ox.ac.uk/~vgg/publications/2014/Jaderberg14/jaderberg14.pdf) [`code`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`model`](https://bitbucket.org/jaderberg/eccv2014_textspotting) [`GitXiv`](http://gitxiv.com/posts/uB4y7QdD5XquEJ69c/deep-features-for-text-spotting)
 
